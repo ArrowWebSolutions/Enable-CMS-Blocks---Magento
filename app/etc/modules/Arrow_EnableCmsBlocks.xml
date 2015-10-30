@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Arrow_EnableCmsBlocks>
+            <codePool>local</codePool>
+            <active>true</active>
+        </Arrow_EnableCmsBlocks>
+    </modules>
+</config>
